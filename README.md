@@ -1,0 +1,1 @@
+Tenzies is a simple game where you roll ten dice until you can get them all to match the same number 1-6.
